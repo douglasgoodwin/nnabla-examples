@@ -24,7 +24,8 @@ import nnabla.functions as F
 import numpy as np
 import matplotlib.pyplot as plt
 
-from skimage.draw import circle
+# from skimage.draw import circle
+from skimage.draw import ellipse as cricle
 
 
 class Visualizer(object):
