@@ -25,7 +25,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # from skimage.draw import circle
-from skimage.draw import ellipse as cricle
+from skimage.draw import ellipse as circle
 
 
 class Visualizer(object):
